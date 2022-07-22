@@ -1,6 +1,6 @@
 [![MasterHead](https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif)](https://www.fiverr.com/parthgupta795?up_rollout=true)
 
-(img align="right" alt="Coding" width="400" src="https://www.simform.com/wp-content/uploads/2021/02/Laravel-vs-Nodejs-preview-1.png")
+<img align="right" alt="Coding" width="400" src="https://www.simform.com/wp-content/uploads/2021/02/Laravel-vs-Nodejs-preview-1.png">
 
 <h1 align="center">Hi 👋, I'm Parth Gupta</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
