@@ -1,4 +1,4 @@
-[![MasterHead](https://www.simform.com/wp-content/uploads/2021/02/Laravel-vs-Nodejs-preview-1.png)](https://www.fiverr.com/parthgupta795?up_rollout=true)
+[![MasterHead](<iframe src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">via GIPHY</a></p>)](https://www.fiverr.com/parthgupta795?up_rollout=true)
 
 <h1 align="center">Hi 👋, I'm Parth Gupta</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
