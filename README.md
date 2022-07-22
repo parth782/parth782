@@ -1,5 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth782&label=Profile%20views&color=0e75b6&style=flat" alt="parth782" /> </p>
+
 [![MasterHead](https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif)](https://www.fiverr.com/parthgupta795?up_rollout=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth782&label=Profile%20views&color=0e75b6&style=flat" alt="parth782" /> </p>
 
 
 
