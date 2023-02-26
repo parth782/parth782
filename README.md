@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth782&theme=radical&row=2&column=3" alt="parth782" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👯 I’m looking to collaborate on **Freelancing Projects**
 
