@@ -1,5 +1,5 @@
 
-![MasterHead](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="MasterHead" height="400" width="1000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth782&label=Profile%20views&color=0e75b6&style=flat" alt="parth782" /> </p>
 
 
